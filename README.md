@@ -88,7 +88,7 @@ The following SKUs are now redundant; switch to the recommended replacements:
 ## ⭐ How You Can Help
 If these runtimes make your life easier, please…
 
-1. **Star** the repo: https://github.com/sdcb/opencvsharp-mini-runtime  
+1. **Star** the repo: https://github.com/SMI-DEV/opencvsharp-mini-runtime  
 2. Consider a small **donation** – let me know your special needs and I’ll try to publish a build that fits.
 
 Thanks for using OpenCvSharp mini-runtime and happy hacking!  
